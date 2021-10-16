@@ -1,0 +1,134 @@
+h1{
+    color:red;
+    font-family:'Arial Narrow';
+    font-style: italic;
+    font-weight: bold;
+}
+
+nav{
+    color:#980000;
+    font-family:'Arial Narrow';
+    font-weight: bold;
+}
+
+.p1{
+    color:#980000; 
+    font-family:'Arial Narrow';
+}
+
+.p2{
+    color: #24505C; 
+    font-family:'Arial Narrow';
+    font-weight: bold;
+}
+
+table, td{;
+    font-family:'Arial Narrow';
+    font-weight: bold;
+    color: #24505C;
+    border: .5px solid black;
+    border-collapse: collapse;
+    border-style: solid;
+    vertical-align: top;
+}
+
+th{ 
+    border: .5px solid black;
+    border-collapse: collapse;
+    border-style: solid;
+    font-family:'Arial Narrow';
+    background-color: #D9EAD3; 
+    height: 4px;
+    width: 200px;
+}
+
+footer{
+    text-align: center;
+    font-family: 'arial narrow';
+    font-weight: bold;
+}
+
+.img{
+    color: red;
+}
+
+.name{
+    color: red;
+}
+
+.age{
+    color: blue;
+}
+
+.FavColor{
+    color: green;
+}
+
+.FavFood{
+    color: orange;
+}
+
+.tdpics{
+    text-align: center;
+}
+
+li{
+    font-family: 'arial narrow';
+    font-weight: bold;
+}
+
+.li1{
+    color: #2E75B5;
+    font-style: italic;
+}
+
+.li2{
+    color: #FF0000;
+    font-style: italic;
+}
+
+.li3{
+    color: #980000;
+    font-style: italic;
+}
+
+.jdl-li1{
+    color: red;
+}
+
+.jdl-li2{
+    color: green;
+}
+
+.jdl-li3{
+    color: black;
+}
+
+.jb-li1{
+    color: pink;
+}
+
+.jb-li2{
+    color: blue;
+}
+
+.jb-li3{
+    color: lightgreen;
+}
+
+.ja-li1{
+    color: yellow;
+}
+
+.ja-li2{
+    color: brown;
+}
+ 
+.ja-li3{
+    color: orange;
+}
+
+.ja-li4{
+        color: red;
+        text-decoration: line-through;
+}
